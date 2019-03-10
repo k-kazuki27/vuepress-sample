@@ -1,0 +1,24 @@
+{
+  "name": "vuepress-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "serve": "npm run build && http-server docs/.vuepress/dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-kazuki27/vuepress-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-kazuki27/vuepress-sample/issues"
+  },
+  "homepage": "https://github.com/k-kazuki27/vuepress-sample#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.10"
+  }
+}
