@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.png
-actionText: Call to Action →
+actionText: 見る →
 actionLink: /
 footer: Copyright © Xooooooooooom - 2018
 ---

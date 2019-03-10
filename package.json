@@ -6,7 +6,7 @@
   "scripts": {
     "start": "vuepress dev docs",
     "build": "vuepress build docs",
-    "serve": "npm run build && http-server docs/.vuepress/dist"
+    "serve": "npm run build && http-server dist -p 8888"
   },
   "repository": {
     "type": "git",
